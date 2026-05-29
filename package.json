@@ -1,6 +1,7 @@
 {
   "name": "marathi-website",
   "version": "0.1.0",
+  "homepage": "https://sandesh-777.github.io/Galaxy-inma",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
